@@ -1,9 +1,7 @@
 # maven-repo
--------------------------
 personal maven repository.
 
 # Usage
--------------------------
 pom.xml:
 
     <repository>  
