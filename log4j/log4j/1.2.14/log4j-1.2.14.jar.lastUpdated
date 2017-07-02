@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 02 16:08:01 CST 2017
+@default-nexus-http\://maven.oschina.net/content/groups/public/.lastUpdated=1498982874888
+https\://repo.spring.io/libs-milestone/.lastUpdated=1498982881638
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact log4j\:log4j\:jar\:1.2.14 from/to nexus (http\://maven.oschina.net/content/groups/public/)\: Connect to maven.oschina.net\:80 [maven.oschina.net/183.78.182.122] failed\: Connection timed out

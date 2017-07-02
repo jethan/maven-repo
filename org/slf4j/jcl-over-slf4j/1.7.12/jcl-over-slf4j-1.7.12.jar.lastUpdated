@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 02 14:43:01 CST 2017
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:jar\:1.7.12 from/to nexus (http\://maven.oschina.net/content/groups/public/)\: Connect to maven.oschina.net\:80 [maven.oschina.net/183.78.182.122] failed\: Connection timed out
+http\://nexus.xiaomadev.com\:8088/nexus/content/repositories/releases/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:jar\:1.7.12 from/to releases (http\://nexus.xiaomadev.com\:8088/nexus/content/repositories/releases/)\: Connect to nexus.xiaomadev.com\:8088 [nexus.xiaomadev.com/103.242.202.233] failed\: Connection timed out
+http\://nexus.xiaomadev.com\:8088/nexus/content/repositories/thirdparty/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:jar\:1.7.12 from/to thirdparty (http\://nexus.xiaomadev.com\:8088/nexus/content/repositories/thirdparty/)\: nexus.xiaomadev.com
+@default-snapshots-http\://nexus.xiaomadev.com\:8088/nexus/content/groups/snapshots/.lastUpdated=1498977715908
+https\://repo.spring.io/libs-milestone/.lastUpdated=1498977781942
+@default-nexus-http\://maven.oschina.net/content/groups/public/.lastUpdated=1498977778977
+http\://nexus.xiaomadev.com\:8088/nexus/content/groups/snapshots/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:jar\:1.7.12 from/to snapshots (http\://nexus.xiaomadev.com\:8088/nexus/content/groups/snapshots/)\: nexus.xiaomadev.com
+@default-releases-http\://nexus.xiaomadev.com\:8088/nexus/content/repositories/releases/.lastUpdated=1498977698982
+@default-thirdparty-http\://nexus.xiaomadev.com\:8088/nexus/content/repositories/thirdparty/.lastUpdated=1498977715872

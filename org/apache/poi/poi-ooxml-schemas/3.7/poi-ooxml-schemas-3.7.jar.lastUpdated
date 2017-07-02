@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jul 02 14:53:50 CST 2017
+@default-releases-http\://nexus.xiaomadev.com\:8088/nexus/content/repositories/releases/.lastUpdated=1498978271376
+@default-snapshots-http\://nexus.xiaomadev.com\:8088/nexus/content/groups/snapshots/.lastUpdated=1498978417583
+http\://nexus.xiaomadev.com\:8088/nexus/content/repositories/releases/.error=Could not transfer artifact org.apache.poi\:poi-ooxml-schemas\:jar\:3.7 from/to releases (http\://nexus.xiaomadev.com\:8088/nexus/content/repositories/releases/)\: Connect to nexus.xiaomadev.com\:8088 [nexus.xiaomadev.com/103.242.202.233] failed\: Connection timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1498978430726
+http\://nexus.xiaomadev.com\:8088/nexus/content/groups/snapshots/.error=Could not transfer artifact org.apache.poi\:poi-ooxml-schemas\:jar\:3.7 from/to snapshots (http\://nexus.xiaomadev.com\:8088/nexus/content/groups/snapshots/)\: Connect to nexus.xiaomadev.com\:8088 [nexus.xiaomadev.com/103.242.202.233] failed\: Connection timed out
